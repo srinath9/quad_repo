@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/srinath/Music/ros_workspace/src/tum_ardrone/thirdparty/thirdparty.tar.gz'
+tag=''
